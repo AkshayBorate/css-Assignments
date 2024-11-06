@@ -1,0 +1,71 @@
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(23, 25, 25, 0.96) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+div {
+  margin-left: 7%;
+  margin-right: 7%;
+  color: white;
+  font-size: 20px;
+}
+
+h2 {
+  margin-top: 1px;
+  margin: 1px;
+}
+
+marquee {
+  color: rgb(227, 17, 17);
+  font-size: 30px;
+  margin-top: 10px;
+  padding: 5px 10px;
+}
+
+section {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  padding: 20px 3%;
+  margin-top: 10px;
+  border-radius: 1rem;
+}
+
+#id {
+  color: black;
+}
+
+p {
+  font-size: 25px;
+}
+
+img {
+  height: 300px;
+  width: auto;
+  border: 2px solid rgb(17, 17, 17);
+}
+i {
+  margin-top: 10px;
+  padding-right: 20px;
+}
+#p2 {
+  font-size: 20px;
+  margin-top: -5px;
+}
+#p4 {
+  color: black;
+  font-size: 15px;
+}
+#i3 {
+  height: 200px;
+  width: 200px;
+  border: 2px solid rgb(17, 17, 17);
+}
+#p5 {
+  font-size: 20px;
+}
